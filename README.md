@@ -89,13 +89,9 @@ enjoyed reading:
 filtering_Chen.pdf
 * Robot mapping with particle filters http://duch.mimuw.edu.pl/~kowaluk/GOBR/slam11-particle-filter.pdf
 * https://en.wikipedia.org/wiki/Particle_filter
-* [Particle/Kalman Filter for Efficient Robot Localization](https://docs.google.com/viewer?url=http%3A%2F%2Fresearch.ijcaonline.org%2Fvo
-lume106%2Fnumber2%2Fpxc3899554.pdf)
-* [Great content for Kalman and Particle filters](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.sft.asso.fr%2FLocal%2Fsft%2Fdir%2
-Fuser-3775%2Fdocuments%2Factes%2FMetti5_School%2FLectures%26Tutorials-Texts%2FText-T10-Orlande.pdf)
-* See also [Marginalized Particle Filters for Mixed Linear/Nonlinear State-space Models](https://docs.google.com/viewer?url=http%3A%2F%
-2Fusers.isy.liu.se%2Frt%2Ffredrik%2Freports%2F04SPschon.pdf)
-* [Particle Filters for Positioning, Navigation and Tracking](https://docs.google.com/viewer?url=http%3A%2F%2Fusers.isy.liu.se%2Frt%2Ffr
-edrik%2Freports%2F01SPpf4pos.pdf)
+* [Particle/Kalman Filter for Efficient Robot Localization](https://docs.google.com/viewer?url=http%3A%2F%2Fresearch.ijcaonline.org%2Fvolume106%2Fnumber2%2Fpxc3899554.pdf)
+* [Great content for Kalman and Particle filters](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.sft.asso.fr%2FLocal%2Fsft%2Fdir%2Fuser-3775%2Fdocuments%2Factes%2FMetti5_School%2FLectures%26Tutorials-Texts%2FText-T10-Orlande.pdf)
+* See also [Marginalized Particle Filters for Mixed Linear/Nonlinear State-space Models](https://docs.google.com/viewer?url=http%3A%2F%2Fusers.isy.liu.se%2Frt%2Ffredrik%2Freports%2F04SPschon.pdf)
+* [Particle Filters for Positioning, Navigation and Tracking](https://docs.google.com/viewer?url=http%3A%2F%2Fusers.isy.liu.se%2Frt%2Ffredrik%2Freports%2F01SPpf4pos.pdf)
 
 
