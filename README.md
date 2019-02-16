@@ -45,8 +45,8 @@ If everything worked you should see something like the following output:
 
 **map_data.txt**includes the position of landmarks (in meters) on an arbitrary Cartesian coordinate system. Each row has three columns
 
-1.x position
-2.y position
+1.x position    
+2.y position    
 3.landmark id
 
 ### Control Data
@@ -65,7 +65,7 @@ place.
 These files contain observation data for all "observable" landmarks. Here observable means the landmark is sufficiently close to the 
 vehicle. Each row in these files corresponds to a single landmark. The two columns represent:
 
-1.x distance to the landmark in meters (right is positive) RELATIVE TO THE VEHICLE.
+1.x distance to the landmark in meters (right is positive) RELATIVE TO THE VEHICLE.     
 2.y distance to the landmark in meters (forward is positive) RELATIVE TO THE VEHICLE.
 
 **Note: You must transform vehicle's coordinate system to the map coordinate system.**
@@ -93,8 +93,8 @@ filtering_Chen.pdf
 lume106%2Fnumber2%2Fpxc3899554.pdf)
 * [Great content for Kalman and Particle filters](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.sft.asso.fr%2FLocal%2Fsft%2Fdir%2
 Fuser-3775%2Fdocuments%2Factes%2FMetti5_School%2FLectures%26Tutorials-Texts%2FText-T10-Orlande.pdf)
-* See also [Marginalized Particle Filters for Mixed Linear/Nonlinear State-space Models]()https://docs.google.com/viewer?url=http%3A%2F%
-2Fusers.isy.liu.se%2Frt%2Ffredrik%2Freports%2F04SPschon.pdf
+* See also [Marginalized Particle Filters for Mixed Linear/Nonlinear State-space Models](https://docs.google.com/viewer?url=http%3A%2F%
+2Fusers.isy.liu.se%2Frt%2Ffredrik%2Freports%2F04SPschon.pdf)
 * [Particle Filters for Positioning, Navigation and Tracking](https://docs.google.com/viewer?url=http%3A%2F%2Fusers.isy.liu.se%2Frt%2Ffr
 edrik%2Freports%2F01SPpf4pos.pdf)
 
