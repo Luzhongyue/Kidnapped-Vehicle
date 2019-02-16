@@ -22,8 +22,8 @@ particle filter
 Once you have this repository on your machine, cd into the repository's root directory and run the following commands from the command 
 line:
 
-`<./clean.sh>`
-`<./build.sh>`
+`<./clean.sh>`     
+`<./build.sh>`    
 `<./run.sh>`
 
 **2.My Files**
@@ -49,12 +49,12 @@ If everything worked you should see something like the following output:
 2.y position
 3.landmark id
 
-## Control Data
+### Control Data
 
 **control_data.txt** contains rows of control data. Each row corresponds to the control data for the corresponding time step. The two 
 columns represent
 
-1.vehicle speed (in meters per second)
+1.vehicle speed (in meters per second)     
 2.vehicle yaw rate (in radians per second)
 
 ### Obaervation Data
@@ -79,16 +79,16 @@ vehicle. Each row in these files corresponds to a single landmark. The two colum
 For further reading and to dive deeper into the concept of particle filtering and basic filtering I suggest these materials which you may 
 enjoyed reading:
 
-* See here [](http://users.isy.liu.se/rt/fredrik/reports/09TAESpftutorial.pdf) where theory meets practice in particle filters
-* [](http://www.irisa.fr/aspi/legland/ref/arulampalam02a.pdf)
-* Applying particle filters in robots [](http://robots.stanford.edu/papers/thrun.pf-in-robotics-uai02.pdf)
-* A gentle introduction to particle filtering [](http://www.lancaster.ac.uk/pg/turnerl/PartileFiltering.pdf)
-* Particle filters and its applications [](http://ocw.alfaisal.edu/NR/rdonlyres/Aeronautics-and-Astronautics/16-412JSpring-2005/F9652688
--E118-442E-98CE-3013CBEB8F11/0/a5_hso_plnvl_mlr.pdf)
-* Get to understand the difference particle filter has with other filters here [](http://www.dsi.unifi.it/users/chisci/idfric/Nonlinear_
-filtering_Chen.pdf)
-* Robot mapping with particle filters [](http://duch.mimuw.edu.pl/~kowaluk/GOBR/slam11-particle-filter.pdf)
-* [](https://en.wikipedia.org/wiki/Particle_filter)
+* See here http://users.isy.liu.se/rt/fredrik/reports/09TAESpftutorial.pdf where theory meets practice in particle filters
+* http://www.irisa.fr/aspi/legland/ref/arulampalam02a.pdf
+* Applying particle filters in robots http://robots.stanford.edu/papers/thrun.pf-in-robotics-uai02.pdf
+* A gentle introduction to particle filtering http://www.lancaster.ac.uk/pg/turnerl/PartileFiltering.pdf
+* Particle filters and its applications http://ocw.alfaisal.edu/NR/rdonlyres/Aeronautics-and-Astronautics/16-412JSpring-2005/F9652688
+-E118-442E-98CE-3013CBEB8F11/0/a5_hso_plnvl_mlr.pdf
+* Get to understand the difference particle filter has with other filters here http://www.dsi.unifi.it/users/chisci/idfric/Nonlinear_
+filtering_Chen.pdf
+* Robot mapping with particle filters http://duch.mimuw.edu.pl/~kowaluk/GOBR/slam11-particle-filter.pdf
+* https://en.wikipedia.org/wiki/Particle_filter
 * [Particle/Kalman Filter for Efficient Robot Localization](https://docs.google.com/viewer?url=http%3A%2F%2Fresearch.ijcaonline.org%2Fvo
 lume106%2Fnumber2%2Fpxc3899554.pdf)
 * [Great content for Kalman and Particle filters](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.sft.asso.fr%2FLocal%2Fsft%2Fdir%2
